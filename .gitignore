@@ -1,0 +1,7 @@
+config.py
+venv/
+__pycache__/
+.DS_Store
+atilanlar.txt
+*.log
+*.jpg
